@@ -1,4 +1,4 @@
-## Collection of random utilities
+# Collection of random utilities
 
 ## bpr.py - blender parallel rendering
 Because reasons, blender can't render video on more than 1 core, but you can spin up more instances of blender at the same time. That's exactly what this small script does.  
